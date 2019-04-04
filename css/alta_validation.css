@@ -1,0 +1,23 @@
+/*
+body{
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;	
+	background-color:#FFF;
+	font-size:0.9em;
+
+}
+*/
+/* General styling for both valid and invalid input */
+.invalidInput,.validInput{
+/*	display:compact; */
+	padding:1px;
+}
+/* Style for invalid input */
+.invalidInput{
+	border:1px solid #F00;
+}
+
+/* Style for valid input */
+.validInput{
+	border:1px solid #FFF;
+}
+
